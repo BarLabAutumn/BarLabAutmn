@@ -1,0 +1,29 @@
+
+body {
+    background-color:  rgb(17,17,17);
+}
+img {
+    display: block;
+    margin: 0 auto;  /* Căn giữa theo chiều ngang */
+    max-width: 100%;
+    height: auto;
+/*   filter: drop-shadow(1px 1px 20px rgb(238, 223, 57)); */
+    border-radius: 30px;
+} 
+#bn {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(238, 223, 57);
+}
+p {
+    font-family: serif ;
+    font-size: 18px;
+    color: white;
+    padding-top: 50px;
+}
+h2 {
+    padding-bottom: 30px;
+}
+.cc {
+    padding-top: 20px;
+}
